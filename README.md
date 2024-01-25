@@ -1,1 +1,5 @@
-This is the read me file
+# My HTML project
+
+by Kayla Thompson
+
+this will be the recipe project.
