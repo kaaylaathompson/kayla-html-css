@@ -2,4 +2,6 @@
 
 by Kayla Thompson
 
-this will be the recipe project.
+This is my HTML project. It includes creating a page for a New York Times recipe for Baked Mac and Cheese.
+
+This project is due Friday, Febuary 2, 2024 at 11:59pm.
